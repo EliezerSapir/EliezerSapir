@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 i'm Eliezer!
+
+With a decade of experience in organic farming, including successfully managing my own farm for the past three years, I have developed a unique blend of skills that reflect my passion for ecology, community building, and personal growth. In my agricultural journey, I have honed my ability to lead and collaborate with diverse teams, overseeing volunteers and workers while managing projects that require innovative problem-solving and attention to detail.
+
+My background in science and math has equipped me with analytical thinking and a creative eye, allowing me to navigate challenges in plant care and ecology. I am not only adept at overcoming obstacles but also thrive on continuous learning, showcasing a love for acquiring new knowledge and skills.
+
+In pursuit of my goal to merge technology and ecology for a more efficient and better world, I am currently enrolled in the data analytics program at TripleTen, with a primary focus on Python and SQL. I am building a solid foundation in programming languages with experience in HTML, CSS, and JavaScript. I am eager to explore software development and embedded programming. My commitment to personal growth and spirituality adds depth to my approach, fostering a holistic perspective in my quest to contribute to a sustainable and technologically advanced future.
+
+I am searching for my place in the high-tech world and for the right team to share my scientific mindset, problem-solving and management skills and hands-on experience with to create innovative solutions to real life problems.
 
 <!--
 **EliezerSapir/EliezerSapir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
